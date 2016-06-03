@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Networking\UdpBroadcast\UDpBroadcastServer\bin\Debug\UDpBroadcastServer.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Networking\UdpBroadcast\UDpBroadcastServer\bin\Debug\UDpBroadcastServer.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Networking\UdpBroadcast\UDpBroadcastServer\bin\Debug\UDpBroadcastServer.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Networking\UdpBroadcast\UDpBroadcastServer\obj\Debug\UDpBroadcastServer.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Networking\UdpBroadcast\UDpBroadcastServer\obj\Debug\UDpBroadcastServer.Form1.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Networking\UdpBroadcast\UDpBroadcastServer\obj\Debug\UDpBroadcastServer.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Networking\UdpBroadcast\UDpBroadcastServer\obj\Debug\UDpBroadcastServer.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Networking\UdpBroadcast\UDpBroadcastServer\obj\Debug\UDpBroadcastServer.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Networking\UdpBroadcast\UDpBroadcastServer\obj\Debug\UDpBroadcastServer.pdb
